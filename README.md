@@ -1,6 +1,5 @@
 # Katelyn Lin's Robotics Portfolio (2024-2025)
 
-# Katelyn Lin's Programming Portfolio (2024-2025)
 ![Robot Danicng](https://upload.wikimedia.org/wikipedia/commons/f/f4/Gif_robot.gif)
 
 ## Bio

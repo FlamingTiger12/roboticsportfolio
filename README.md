@@ -1,6 +1,7 @@
 # Katelyn Lin's Robotics Portfolio (2024-2025)
 
 ## Bio
+
 * Currently a high school freshman
 * Projected graduation in 2028
 * Can do a little 3D modeling using Maya

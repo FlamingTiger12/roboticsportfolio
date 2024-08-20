@@ -6,8 +6,10 @@
 ## Bio
 * Currently a high school freshman
 * Projected graduation in 2028
+* No robotics experience (yet!)
 * Can do a little 3D modeling using Maya
 * Typing at 74 WPM, with an accuracy of 97%
+* Aiming to compete in the Vex Robotics competition
 
 ## Projects for Term 1
 

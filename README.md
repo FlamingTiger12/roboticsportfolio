@@ -1,5 +1,5 @@
 # Katelyn Lin's Robotics Portfolio (2024-2025)
 
-## Project for Term 1
+## Projects for Term 1
 
-## Project for Term 2
+## Projects for Term 2

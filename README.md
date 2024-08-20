@@ -1,7 +1,9 @@
 # Katelyn Lin's Robotics Portfolio (2024-2025)
 
-## Bio
+# Katelyn Lin's Programming Portfolio (2024-2025)
+![Robot Danicng](https://upload.wikimedia.org/wikipedia/commons/f/f4/Gif_robot.gif)
 
+## Bio
 * Currently a high school freshman
 * Projected graduation in 2028
 * Can do a little 3D modeling using Maya

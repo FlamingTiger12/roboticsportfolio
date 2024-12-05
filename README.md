@@ -11,5 +11,3 @@
 * Aiming to compete in the Vex Robotics competition
 
 ## Projects for Term 1
-
-## Projects for Term 2

@@ -11,7 +11,8 @@
 * Aiming to compete in the Vex Robotics competition
 
 ## Certifications
-
+![image](https://github.com/user-attachments/assets/2262b033-ec8d-429e-bc20-a0d1e98157ca)
+[Link](https://github.com/FlamingTiger12/roboticsportfolio/blob/main/images/roboticsonecertificate.pdf)
 
 
 

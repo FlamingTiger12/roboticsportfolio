@@ -10,4 +10,9 @@
 * Typing at 74 WPM, with an accuracy of 97%
 * Aiming to compete in the Vex Robotics competition
 
+## Certifications
+
+[roboticsonecertificate.pdf](https://github.com/user-attachments/files/18203480/roboticsonecertificate.pdf)
+
+
 ## Projects for Term 1
